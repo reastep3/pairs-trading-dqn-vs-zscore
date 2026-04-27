@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Virtual envs
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Older / superseded research runs (keep only postbugfix on GitHub)
+results/run_20pairs_prior/
+results/run_30pairs_final/
+
+# Local-only artefacts
+*.log
+*.tmp

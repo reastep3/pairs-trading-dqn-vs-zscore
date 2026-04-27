@@ -1,0 +1,3 @@
+label,total_return,annual_return,sharpe,sortino,max_drawdown,calmar,daily_vol
+Z-Score,-0.0149,-0.0074,-0.9074,-0.5284,-0.018,-0.4103,0.000512
+DQN Agent,-0.0111,-0.0055,-0.2777,-0.4211,-0.0236,-0.2336,0.001211
